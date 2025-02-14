@@ -1,3 +1,4 @@
+#It's just an example of how to extract data with Scrapy from Djezzy's official website.
 import scrapy
 import re
 from w3lib.html import remove_tags  

@@ -1,6 +1,6 @@
 
 
-# **Development and Implementation of an AI-Powered Chatbot for Customer Support at Djezzy**  
+# **INTELLIGENT CUSTOMER SUPPORT CHATBOT FOR DJEZZY**  
 
 ## **Project Overview**  
 This project focuses on the design and implementation of an **intelligent chatbot** aimed at enhancing customer support at **Djezzy**, one of Algeria's leading telecommunications providers. Conducted as part of a practical internship within the company, it explores key aspects of **Generative AI**, including **fine-tuning large language models (LLMs)**, optimizing responses, and integrating a **Retrieval-Augmented Generation (RAG) system**.  

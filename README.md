@@ -31,8 +31,8 @@ This project focuses on the design and implementation of an **intelligent chatbo
 This project demonstrates the impact of **Generative AI** in automating customer service. By combining **fine-tuned LLMs and a RAG system**, the chatbot provides **highly relevant** and **optimized** responses, improving customer interaction. By **reducing workload on support teams** and offering **instant assistance**, the chatbot significantly enhances the user experience.  
 
 ## **Technologies Used**  
-✅ **Web Scraping** | ✅ **NLP** | ✅ **Generative AI** | ✅ **Fine-Tuning** | ✅ **RAG** | ✅ **AI Deployment**  
+✅ **Web Scraping** |  ✅ **Generative AI** | ✅ **Fine-Tuning** | ✅ **RAG**  
 
 ## **Tools & Frameworks**  
-🛠 **Python** | **BeautifulSoup/Scrapy** | **TensorFlow/PyTorch** | **LangChain** | **FastAPI**  
+🛠 **Python** | **Scrapy** | **TensorFlow/PyTorch** | **LangChain** |   
 

@@ -13,7 +13,7 @@ This project focuses on the design and implementation of an **intelligent chatbo
 
 ### **2. Data Processing and Preparation**  
 - Cleaned, annotated, and structured data to optimize chatbot performance.  
-- Enhanced data using **Natural Language Processing (NLP)** techniques to improve response understanding and generation.  
+
 
 ### **3. Model Training and Optimization**  
 - **Fine-tuned** a **Large Language Model (LLM)** on a **Djezzy-specific corpus**, ensuring accurate and context-aware responses.  
@@ -21,7 +21,7 @@ This project focuses on the design and implementation of an **intelligent chatbo
 
 ### **4. Implementation and Deployment**  
 - Developed a **user-friendly interface** for chatbot interactions.  
-- Integrated the chatbot into Djezzy’s communication channels, including the **website and mobile applications**.  
+
 
 ### **5. Performance Evaluation and Optimization**  
 - Measured chatbot efficiency using **performance metrics** such as **precision, recall, and F1-score**.  
